@@ -31,6 +31,11 @@ Written by Hampton Morgan for Madison County Schools
   - Sound Board
   - Microphone Types
   - Microphones Necessary
+  - Wireless Microphones
+    - Microphone Batteries
+    - Choosing Wireless Audio Channels
+    - Shure Wireless Reciever Setup
+    - General Wireless Best Practices
   - Audio Cables/Transports
   - Interfacing a PC to Sound System
   - Portable Sound System & On-Location Recording
@@ -90,9 +95,11 @@ Written by Hampton Morgan for Madison County Schools
     - Wireless Access Points
 8. **Client-Side Computer Systems**
   - Streaming Reception
-    - VLC Media Player
+    - VLC Media Player *(most efficient)*
     - YouTube (in browser)
     - YouTube for Mobile
     - VLC on Mobile
     - streamKit Web App for automatic network configuration
+  - On-Demand Viewing
+    - YouTube
   
